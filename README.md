@@ -9,11 +9,11 @@ Summary of testing for [Saucedemo](https://www.saucedemo.com/).
 3. **Bug Reporting**: Documented issues.
 
 ## Findings
-### Functional Issues
-### Security Issues
-### Performance Issues
-### Usability Issues
-### Other Issues
+1.  Functional Issues
+2.  Security Issues
+3. Performance Issues
+4. Usability Issues
+5. Other Issues
 
 
 ## Recommendations
