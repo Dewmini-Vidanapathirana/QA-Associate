@@ -1,4 +1,4 @@
-# Test Summary Report for Saucedemo
+
 
 ## Overview
 Summary of testing for [Saucedemo](https://www.saucedemo.com/).
