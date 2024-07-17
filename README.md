@@ -1,7 +1,7 @@
 
 
 ## Overview
-Summary of testing for [Saucedemo](https://www.saucedemo.com/).
+Application URL: [Saucedemo](https://www.saucedemo.com/).
 
 ## Testing Process
 1. **Design**: Test cases for various functionalities.
